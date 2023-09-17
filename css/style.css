@@ -1,0 +1,146 @@
+.card-container {
+    padding: 8px;
+}
+
+.card-date {
+    font-size: 15px;
+    font-weight: normal;
+    color: #999;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    max-width: 400px;
+}
+
+.card-link {
+    text-decoration: none;
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+}
+
+.card-image {
+    max-width: 100%;
+    height: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-content {
+    padding: 0 20px;
+}
+
+.card-title {
+    font-size: 15px;
+    font-weight: normal;
+    margin-top: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card-description {
+    font-size: 13px;
+    color: #999;
+    margin-top: 5px;
+}
+
+.card-cover {
+    max-width: 100%; 
+    height: auto; 
+}
+
+.card-item {
+    position: relative; /* 用于相对定位 */
+}
+
+.multi-card-title {
+    font-size: 15px;
+
+    position: absolute; /* 用于绝对定位 */
+    bottom: 0px; /* 控制文本距离底部的距离 */
+    color: #fff; /* 设置文本颜色为白色 */
+    padding: 10px 20px; /* 添加内边距，根据需要调整值 */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); /* 添加文字阴影 */
+    width: -webkit-fill-available;
+
+    display: flex; /* 使用 Flexbox 布局 */
+    flex-direction: column; /* 垂直布局，文本从上到下排列 */
+    justify-content: flex-end; /* 将内容底端对齐 */
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.2), transparent); /* 添加从下到上的渐变背景 */
+}
+
+.multi-card-title-text {
+    font-size: 15px;
+    font-weight: normal;
+    position: absolute; /* 用于绝对定位 */
+    width: 80%;
+}
+
+.card-sub-item {
+    display: flex;
+    align-items: center; /* 垂直居中对齐 */
+    padding: 10px 12px; /* 设置子项的外边距 */
+}
+
+.card-sub-title {
+    font-size: 15px;
+    flex-grow: 1; /* 左侧文字占据剩余空间 */
+    text-align: left; /* 左对齐 */
+    padding: 0 5px; /* 设置左侧文字的内边距 */
+}
+
+.card-sub-cover {
+    flex-shrink: 0; /* 右侧内容不收缩 */
+    text-align: right; /* 右对齐 */
+    overflow: hidden; /* 隐藏超出容器的内容 */
+    width: 70px; /* 设置右侧容器的宽度 */
+    height: 70px; /* 设置右侧容器的高度 */
+    margin: 5px; /* 图片外边距 */
+    flex-shrink: 0; /* 右侧内容不收缩 */
+    text-align: right; /* 右对齐 */
+    object-fit: cover; /* 裁剪并填充容器 */
+    box-sizing: border-box; /* 设置内边距不影响容器宽高 */
+    border-radius: 5px;
+}
+
+
+.background-hover {
+    background-color: white;
+    transition: background-color 0.3s ease; /* 添加过渡效果 */
+}
+
+.background-hover:hover {
+    background-color: rgba(0, 0, 0, 0.1); /* 鼠标悬停时改变背景颜色为灰色 */
+}
+
+.image-hover {
+    position: relative; /* 用于相对定位 */
+}
+
+.image-hover::before {
+    content: ""; /* 添加伪元素内容 */
+    position: absolute; /* 绝对定位 */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.15); /* 半透明的背景颜色 */
+    opacity: 0; /* 默认情况下不可见 */
+    transition: opacity 0.3s ease; /* 添加过渡效果 */
+}
+
+.image-hover:hover::before {
+    opacity: 1; /* 鼠标悬停时显示半透明背景 */
+}
+
+
+a {
+    text-decoration: none; /* 去除下划线 */
+    color: inherit; /* 继承父元素的文本颜色 */
+}

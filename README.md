@@ -1,5 +1,7 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2023年9月17日
+[UCD学联邀你加入新生周活动！](https://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247498913&idx=1&sn=8d7f239222d0268f8bbecfd7a5999d0c)
 ### 2023年9月11日
 [转载 | 圆满落幕2023西欧三国（德国-法国-爱尔兰）中国学生学者学术研讨会暨第四届德法会议](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247498787&idx=1&sn=d87c38bb41d2fbc8126c7f2be0206c2f&chksm=084e15ce8519e70fe7d557b571eeec00f07f23bf9bf9d7d63dbf7a85907185066d756bad3527&scene=27#wechat_redirect)
 ### 2023年8月26日
