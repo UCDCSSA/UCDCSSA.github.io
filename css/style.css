@@ -60,8 +60,9 @@
 }
 
 .card-cover {
-    max-width: 100%; 
-    height: auto; 
+    max-height: 300px;
+    width: 400px;
+    object-fit: cover;
 }
 
 .card-item {
