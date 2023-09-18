@@ -7,40 +7,38 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <div id="app">
-        <div class="card-list">
-            <div class="card-container" v-for="post in posts">
-                <div v-if="post.app_msg_ext_info">
-                    <div class="card-date">{{ formatDate(post.comm_msg_info.datetime * 1000) }}</div>
-                    <a :href="post.app_msg_ext_info.content_url">
-                        <div class="card" v-if="post.app_msg_ext_info.multi_app_msg_item_list.length > 0">
-                            <div class="card-post image-hover">
-                                <div class="multi-card-title">{{ post.app_msg_ext_info.title }}</div>
-                                <div class="linear-background">
-                                    <img class="card-cover" :src="asLocalImg(post.app_msg_ext_info.cover)" alt="Cover Image">
-                                </div>
-                            </div>
-                            <div v-for="sub_post in post.app_msg_ext_info.multi_app_msg_item_list" :key="sub_post.title">
-                                <a class="card-sub-item background-hover" :href="sub_post.content_url">
-                                    <div class="card-sub-title">{{ sub_post.title }}</div>
-                                    <img class="card-sub-cover" :src="asLocalImg(sub_post.cover)" alt="Sub Cover Image">
-                                </a>
+    <div class="card-list">
+        <div class="card-container" v-for="post in posts">
+            <div v-if="post.app_msg_ext_info">
+                <div class="card-date">{{ formatDate(post.comm_msg_info.datetime * 1000) }}</div>
+                <a :href="post.app_msg_ext_info.content_url">
+                    <div class="card" v-if="post.app_msg_ext_info.multi_app_msg_item_list.length > 0">
+                        <div class="card-post image-hover">
+                            <div class="multi-card-title">{{ post.app_msg_ext_info.title }}</div>
+                            <div class="linear-background">
+                                <img class="card-cover" :src="asLocalImg(post.app_msg_ext_info.cover)" alt="Cover Image">
                             </div>
                         </div>
-                        <div class="card image-hover" v-else>
-                            <img class="card-cover" :src="asLocalImg(post.app_msg_ext_info.cover)" alt="Cover Image">
-                            <div class="card-content">
-                                <div class="card-title">{{ post.app_msg_ext_info.title }}</div>
-                                <p class="card-description">{{ post.app_msg_ext_info.digest }}</p>
-                            </div>
+                        <div v-for="sub_post in post.app_msg_ext_info.multi_app_msg_item_list" :key="sub_post.title">
+                            <a class="card-sub-item background-hover" :href="sub_post.content_url">
+                                <div class="card-sub-title">{{ sub_post.title }}</div>
+                                <img class="card-sub-cover" :src="asLocalImg(sub_post.cover)" alt="Sub Cover Image">
+                            </a>
                         </div>
-                    </a>
-                </div>
+                    </div>
+                    <div class="card image-hover" v-else>
+                        <img class="card-cover" :src="asLocalImg(post.app_msg_ext_info.cover)" alt="Cover Image">
+                        <div class="card-content">
+                            <div class="card-title">{{ post.app_msg_ext_info.title }}</div>
+                            <p class="card-description">{{ post.app_msg_ext_info.digest }}</p>
+                        </div>
+                    </div>
+                </a>
             </div>
         </div>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/vue@3.3.4/dist/vue.global.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@latest/dist/vue.global.js"></script>
     <script>
         const app = Vue.createApp({
             data() {
@@ -72,7 +70,7 @@
                 }
             }
         });
-        app.mount('#app');
+        app.mount('.card-list');
     </script>
 </body>
 </html>
