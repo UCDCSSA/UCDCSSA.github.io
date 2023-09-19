@@ -11,23 +11,25 @@
         <div class="card-container" v-for="post in posts">
             <div v-if="post.app_msg_ext_info">
                 <div class="card-date">{{ formatDate(post.comm_msg_info.datetime * 1000) }}</div>
-                <a :href="post.app_msg_ext_info.content_url">
-                    <div class="card" v-if="post.app_msg_ext_info.multi_app_msg_item_list.length > 0">
-                        <div class="card-post image-hover">
+                <div class="card" v-if="post.app_msg_ext_info.multi_app_msg_item_list.length > 0">
+                    <a :href="post.app_msg_ext_info.content_url">
+                        <div class="card-hover keep-shape">
                             <div class="multi-card-title">{{ post.app_msg_ext_info.title }}</div>
-                            <div class="linear-background">
-                                <img class="card-cover" :src="asLocalImg(post.app_msg_ext_info.cover)" alt="Cover Image">
+                            <img class="card-cover keep-shape" :src="asLocalImg(post.app_msg_ext_info.cover)">
+                        </div>
+                    </a>
+                    <a v-for="sub_post in post.app_msg_ext_info.multi_app_msg_item_list" :href="sub_post.content_url">
+                        <div class="card-hover keep-shape">
+                            <div class="card-sub-item">
+                                <div class="card-sub-title">{{ sub_post.title }}</div>
+                                <img class="card-sub-cover" :src="asLocalImg(sub_post.cover)">
                             </div>
                         </div>
-                        <div v-for="sub_post in post.app_msg_ext_info.multi_app_msg_item_list" :key="sub_post.title">
-                            <a class="card-sub-item background-hover" :href="sub_post.content_url">
-                                <div class="card-sub-title">{{ sub_post.title }}</div>
-                                <img class="card-sub-cover" :src="asLocalImg(sub_post.cover)" alt="Sub Cover Image">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="card image-hover" v-else>
-                        <img class="card-cover" :src="asLocalImg(post.app_msg_ext_info.cover)" alt="Cover Image">
+                    </a>
+                </div>
+                <a :href="post.app_msg_ext_info.content_url" v-else>
+                    <div class="card card-hover">
+                        <img class="card-cover" :src="asLocalImg(post.app_msg_ext_info.cover)">
                         <div class="card-content">
                             <div class="card-title">{{ post.app_msg_ext_info.title }}</div>
                             <p class="card-description">{{ post.app_msg_ext_info.digest }}</p>
