@@ -1,7 +1,10 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2023年9月20日
+[生活|从零开始——从机场到UCD的机场大巴(air coach)](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247498970&idx=1&sn=67f87d2d598381e9b8f5e40d589d061f&chksm=e0e7156723b1e5f465051526e3209b1bb0458c95812112c6e84427c4b36ea81e21143b368ade&scene=27#wechat_redirect)
+- [转载|开学第一课,平安留学进校园](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247498970&idx=2&sn=471b90d57fd4fcd4d8606ddb00e8de36&chksm=696e54262fbdeffe508d6ec87ec7ddb0946d9d9fe0101beecd7fd6f1148784267f6dab9e4802&scene=27#wechat_redirect)
 ### 2023年9月17日
-[UCD学联邀你加入新生周活动！](https://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247498913&idx=1&sn=8d7f239222d0268f8bbecfd7a5999d0c)
+[UCD学联邀你加入新生周活动！](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247498913&idx=1&sn=8d7f239222d0268f8bbecfd7a5999d0c&chksm=3e733beb811e9bf1d1c3cac2ecda63dca7ba20ef480af60b3b8f46fb2176570e12e7e7d6ce3e&scene=27#wechat_redirect)
 ### 2023年9月11日
 [转载 | 圆满落幕2023西欧三国（德国-法国-爱尔兰）中国学生学者学术研讨会暨第四届德法会议](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247498787&idx=1&sn=d87c38bb41d2fbc8126c7f2be0206c2f&chksm=084e15ce8519e70fe7d557b571eeec00f07f23bf9bf9d7d63dbf7a85907185066d756bad3527&scene=27#wechat_redirect)
 ### 2023年8月26日
