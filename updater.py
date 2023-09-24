@@ -145,10 +145,15 @@ class Manager:
 
 if __name__ == '__main__':
 
+    import argparse
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--wap_sid2', type=str, required=True)
+    arg = parser.parse_args()
 
     api = WeixinOfficialAccountAPI(
-        biz='MzI0ODQ3MzUwMg==', 
-        wap_sid2='COfguvEHEooBeV9IUGxzY1RpVVR2LXdaVE5kVHRWTEZWVUZZYklTcF9DajBmYWxxN2tVRFk3U0RsN3FZM25LbUlvYzk2M1BQU2FiU3ZQVjE0RUFEcEpRMXZXZVNFWTF3QXNQblRURVRIVms1M2plQS01N2R4NUlZVURSV04tS0x4QUd5SHVZemZPWkNyRVNBQUF+ML3nrqgGOA1AlU4='
+        biz='MzI0ODQ3MzUwMg==',
+        wap_sid2=arg.wap_sid2
     )
 
     manager = Manager(api)

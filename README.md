@@ -1,5 +1,9 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2023年9月22日
+[转载|开学第一课,平安留学进校园](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499303&idx=1&sn=499ad7ca66615d1012cfe126861de6a9&chksm=834fed928711ef017be5a459b0711a3a1863a2b1aa9030d93430e762b5ab4191cf5be3803ce0&scene=27#wechat_redirect)
+### 2023年9月21日
+[商家|金秋特惠,爱尔兰H&T美发美甲美睫活动开始啦!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499136&idx=1&sn=4a52d885d6f56f4dab8eb4f7f6c00852&chksm=07cba67da731e4ae28ad70933b1af4021e852a4754e2d4ed25279f86f86ab1af5d5fa154d591&scene=27#wechat_redirect)
 ### 2023年9月20日
 [生活|从零开始——从机场到UCD的机场大巴(air coach)](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247498970&idx=1&sn=67f87d2d598381e9b8f5e40d589d061f&chksm=e0e7156723b1e5f465051526e3209b1bb0458c95812112c6e84427c4b36ea81e21143b368ade&scene=27#wechat_redirect)
 - [转载|开学第一课,平安留学进校园](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247498970&idx=2&sn=471b90d57fd4fcd4d8606ddb00e8de36&chksm=696e54262fbdeffe508d6ec87ec7ddb0946d9d9fe0101beecd7fd6f1148784267f6dab9e4802&scene=27#wechat_redirect)
