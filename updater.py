@@ -45,7 +45,10 @@ class WeixinOfficialAccountAPI(API):
     
     def home(self, **kwargs):
         res = self.get(action='home', **kwargs)
-        self.cookies['appmsg_token'] = re.findall(r'appmsg_token = "(.*?)";', res.text)[0]
+        try:
+            self.cookies['appmsg_token'] = re.findall(r'appmsg_token = "(.*?)";', res.text)[0]
+        except IndexError:
+            print('获取 appmsg_token 失败，wap_sid2可能过期')
         return res
     
     def getmsg(self, offset=0, count=10, **kwargs):
@@ -132,8 +135,11 @@ class Manager:
 
     def get_latest_posts(self) -> list[POST_DATA]:
         res = self.api.home()
-        print(len(res.text))
-        new_posts = parse_msgList(re.findall("var msgList = '(.*?)';", res.text)[0])
+        msgList_str = re.findall("var msgList = '(.*?)';", res.text)
+        if msgList_str == []:
+            print('获取最新文章列表失败，wap_sid2可能过期')
+            exit(1)
+        new_posts = parse_msgList(msgList_str[0])
         return new_posts
    
 
@@ -142,7 +148,7 @@ if __name__ == '__main__':
 
     api = WeixinOfficialAccountAPI(
         biz='MzI0ODQ3MzUwMg==', 
-        wap_sid2='COfguvEHEooBeV9ISGg4U3Bob3FnSWJXSlk5UWhyXzBuQzk2al9LTEplejNybS16RWhkSXZJZW1SWTl2UWdvRDlJcE0wLTNKUjlpVGJHb2tCZEI3cHJ4c1o1dk92S29YeHE3Q1lZV0RXSGZudjU5UURkUy1GckJKTnNyTnhFeEZkOXBLYnZmT2xXSV9yRVNBQUF+MKSPrKgGOA1AlU4='
+        wap_sid2='COfguvEHEooBeV9IUGxzY1RpVVR2LXdaVE5kVHRWTEZWVUZZYklTcF9DajBmYWxxN2tVRFk3U0RsN3FZM25LbUlvYzk2M1BQU2FiU3ZQVjE0RUFEcEpRMXZXZVNFWTF3QXNQblRURVRIVms1M2plQS01N2R4NUlZVURSV04tS0x4QUd5SHVZemZPWkNyRVNBQUF+ML3nrqgGOA1AlU4='
     )
 
     manager = Manager(api)

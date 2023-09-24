@@ -2,54 +2,62 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1" />  
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>UCD-CSSA</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <div class="card-list">
-        <div class="card-container" v-for="post in posts">
-            <div v-if="post.app_msg_ext_info">
-                <div class="card-date">{{ formatDate(post.comm_msg_info.datetime * 1000) }}</div>
-                <div class="card" v-if="post.app_msg_ext_info.multi_app_msg_item_list.length > 0">
-                    <a :href="post.app_msg_ext_info.content_url">
-                        <div class="card-hover keep-shape">
-                            <div class="multi-card-title">{{ post.app_msg_ext_info.title }}</div>
-                            <img class="card-cover keep-shape" :src="asLocalImg(post.app_msg_ext_info.cover)">
-                        </div>
-                    </a>
-                    <a v-for="sub_post in post.app_msg_ext_info.multi_app_msg_item_list" :href="sub_post.content_url">
-                        <div class="card-hover keep-shape">
-                            <div class="card-sub-item">
-                                <div class="card-sub-title">{{ sub_post.title }}</div>
-                                <img class="card-sub-cover" :src="asLocalImg(sub_post.cover)">
+    <div class="app"></div>
+    <template id="app">
+        <div class="search-box">
+            <input type="text" class="search" placeholder="搜索" v-model="searchText" v-on:input="handleSearch($event)"/>
+        </div>
+        <div class="card-list">
+            <div class="card-container" v-for="post in filteredPosts">
+                <div v-if="post.app_msg_ext_info">
+                    <div class="card-date">{{ formatDate(post.comm_msg_info.datetime * 1000) }}</div>
+                    <div class="card" v-if="post.app_msg_ext_info.multi_app_msg_item_list.length > 0">
+                        <a :href="post.app_msg_ext_info.content_url">
+                            <div class="card-hover keep-shape">
+                                <div class="multi-card-title">{{ post.app_msg_ext_info.title }}</div>
+                                <img class="card-cover keep-shape" :src="asLocalImg(post.app_msg_ext_info.cover)">
+                            </div>
+                        </a>
+                        <a v-for="sub_post in post.app_msg_ext_info.multi_app_msg_item_list"
+                            :href="sub_post.content_url">
+                            <div class="card-hover keep-shape">
+                                <div class="card-sub-item">
+                                    <div class="card-sub-title">{{ sub_post.title }}</div>
+                                    <img class="card-sub-cover" :src="asLocalImg(sub_post.cover)">
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <a :href="post.app_msg_ext_info.content_url" v-else>
+                        <div class="card card-hover">
+                            <img class="card-cover" :src="asLocalImg(post.app_msg_ext_info.cover)">
+                            <div class="card-content">
+                                <div class="card-title">{{ post.app_msg_ext_info.title }}</div>
+                                <p class="card-description">{{ post.app_msg_ext_info.digest }}</p>
                             </div>
                         </div>
                     </a>
                 </div>
-                <a :href="post.app_msg_ext_info.content_url" v-else>
-                    <div class="card card-hover">
-                        <img class="card-cover" :src="asLocalImg(post.app_msg_ext_info.cover)">
-                        <div class="card-content">
-                            <div class="card-title">{{ post.app_msg_ext_info.title }}</div>
-                            <p class="card-description">{{ post.app_msg_ext_info.digest }}</p>
-                        </div>
-                    </div>
-                </a>
             </div>
         </div>
-    </div>
-
+    </template>
     <script src="https://cdn.jsdelivr.net/npm/vue@latest/dist/vue.global.js"></script>
     <script>
-        const app = Vue.createApp({
+        const card_list = Vue.createApp({
             data() {
                 return {
-                    posts: []
+                    posts: [],
+                    filteredPosts: [],
+                    searchText: ""
                 };
             },
             async created() {
-                this.posts = await (await fetch("data/posts.json")).json();
+                this.filteredPosts = this.posts = await (await fetch("data/posts.json")).json();
             },
             methods: {
                 formatDate(timestamp) {
@@ -62,17 +70,29 @@
                     } else if (date.toDateString() === yesterday.toDateString()) {
                         return '昨天';
                     } else if (date > lastWeek) {
-                        return '星期' + ['日', '一', '二', '三', '四', '五', '六'][date.getDay()];
+                        return '星期' + ['天', '一', '二', '三', '四', '五', '六'][date.getDay()];
                     } else {
                         return `${date.getFullYear()}年${date.getMonth() + 1}月${date.getDate()}日`;
                     }
                 },
                 asLocalImg(url) {
                     return `imgs/${url.split('/')[4]}.jpg`;
+                },
+                handleSearch(event) {
+                    this.filteredPosts = this.posts.filter(post => {
+                        if (post.app_msg_ext_info) {
+                            return post.app_msg_ext_info.title.includes(event.target.value) ||
+                                post.app_msg_ext_info.digest.includes(event.target.value) ||
+                                post.app_msg_ext_info.multi_app_msg_item_list.some(sub_post => {
+                                    return sub_post.title.includes(event.target.value) ||
+                                        sub_post.digest.includes(event.target.value);
+                                });
+                        }
+                    });
                 }
-            }
-        });
-        app.mount('.card-list');
+            },
+            template: '#app'
+        }).mount('.app');
     </script>
 </body>
 </html>
