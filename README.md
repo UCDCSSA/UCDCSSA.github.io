@@ -1,5 +1,9 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2023年10月1日
+["我们的幸福在一起" 爱尔兰中国学生学者版](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499324&idx=1&sn=bdb5e9bad8e9215e897e0bffe3b75932&chksm=e4ef85d19015e71267510d26d143c5f8c234d7e8eb413cdbcf673e72fe2ccbf2bc7e11658cb8&scene=27#wechat_redirect)
+### 2023年9月28日
+[UCD学联邀你一起共度中秋佳节!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499322&idx=1&sn=e8ebe776828ee8b130bdc35306c313f0&chksm=646fcd9f1095ef1c007f9fdec87c7db5a13707c0c68166ec75d199cef491f07367019d0e494b&scene=27#wechat_redirect)
 ### 2023年9月22日
 [转载|开学第一课,平安留学进校园](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499303&idx=1&sn=499ad7ca66615d1012cfe126861de6a9&chksm=834fed928711ef017be5a459b0711a3a1863a2b1aa9030d93430e762b5ab4191cf5be3803ce0&scene=27#wechat_redirect)
 ### 2023年9月21日
