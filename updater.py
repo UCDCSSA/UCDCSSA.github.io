@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup
 POST_DATA = dict[str, dict[str, str | int | list[dict[str, str | int]]]]
 
 def parse_msgList(msgList_str: str) -> list:
-    return eval(ucnorm("NFKD", unescape(unescape(msgList_str).replace('"', '\'\'\''))))['list']
+    return eval(ucnorm("NFKD", unescape(unescape(msgList_str).replace('"', '\'\'\''))).replace('\\\\', '\\'))['list']
 
 class API:
 
