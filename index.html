@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>UCD-CSSA</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
     <div class="app"></div>
     <template id="app">
         <div class="search-box">
-            <input type="text" class="search" placeholder="搜索" v-model="searchText" v-on:input="handleSearch($event)"/>
+            <input type="text" class="search" placeholder="搜索" v-model="searchText" v-on:input="handleSearch($event)" />
         </div>
         <div class="card-list">
             <div class="card-container" v-for="post in filteredPosts">
@@ -19,7 +21,7 @@
                     <div class="card" v-if="post.app_msg_ext_info.multi_app_msg_item_list.length > 0">
                         <a :href="post.app_msg_ext_info.content_url">
                             <div class="card-hover keep-shape">
-                                <div class="multi-card-title">{{ post.app_msg_ext_info.title }}</div>
+                                <div class="multi-card-title" v-html="highlightText(post.app_msg_ext_info.title)"></div>
                                 <img class="card-cover keep-shape" :src="asLocalImg(post.app_msg_ext_info.cover)">
                             </div>
                         </a>
@@ -27,7 +29,7 @@
                             :href="sub_post.content_url">
                             <div class="card-hover keep-shape">
                                 <div class="card-sub-item">
-                                    <div class="card-sub-title">{{ sub_post.title }}</div>
+                                    <div class="card-sub-title" v-html="highlightText(sub_post.title)"></div>
                                     <img class="card-sub-cover" :src="asLocalImg(sub_post.cover)">
                                 </div>
                             </div>
@@ -35,10 +37,10 @@
                     </div>
                     <a :href="post.app_msg_ext_info.content_url" v-else>
                         <div class="card card-hover">
-                            <img class="card-cover" :src="asLocalImg(post.app_msg_ext_info.cover)">
+                            <img class="card-cover" :src="asLocalImg(post.app_msg_ext_info.cover)" />
                             <div class="card-content">
-                                <div class="card-title">{{ post.app_msg_ext_info.title }}</div>
-                                <p class="card-description">{{ post.app_msg_ext_info.digest }}</p>
+                                <div class="card-title" v-html="highlightText(post.app_msg_ext_info.title)"></div>
+                                <p class="card-description" v-html="highlightText(post.app_msg_ext_info.digest)"></p>
                             </div>
                         </div>
                     </a>
@@ -89,10 +91,14 @@
                                 });
                         }
                     });
+                },
+                highlightText(text) {
+                    return text.replaceAll(this.searchText, `<span class="highlight">${this.searchText}</span>`);
                 }
             },
             template: '#app'
         }).mount('.app');
     </script>
 </body>
+
 </html>

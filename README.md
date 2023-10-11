@@ -1,5 +1,9 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2023年10月11日
+[活动|桌游夜活动报名开放啦!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499447&idx=1&sn=19c50a01007a953d2f1c97e44c721b6e&chksm=46c282530eb1ed93907345c1267c4fdcefde94fb6d9ef4c8e097331c36dc777b189cf0d5abe6&scene=27#wechat_redirect)
+### 2023年10月5日
+[商家|学生福利—— Kildare village黄金周活动](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499369&idx=1&sn=7452bbe70f348a95cff235d2e6e19174&chksm=e2668a85aa15e747a56bf490d29911cec3a824b6f45f72a84f3da3851cc351658f1280cddb5d&scene=27#wechat_redirect)
 ### 2023年10月1日
 ["我们的幸福在一起" 爱尔兰中国学生学者版](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499324&idx=1&sn=bdb5e9bad8e9215e897e0bffe3b75932&chksm=e4ef85d19015e71267510d26d143c5f8c234d7e8eb413cdbcf673e72fe2ccbf2bc7e11658cb8&scene=27#wechat_redirect)
 ### 2023年9月28日

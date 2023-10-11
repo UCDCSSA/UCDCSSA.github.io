@@ -151,6 +151,10 @@
     border-radius: inherit;
 }
 
+span.highlight {
+    background-color: #f9a02b;
+}
+
 a {
     text-decoration: none; /* no underline */
     color: inherit; /* no highlight */
