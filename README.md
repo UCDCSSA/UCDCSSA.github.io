@@ -1,5 +1,9 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2023年10月26日
+[活动|万圣节Karaoke等你来唱!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499496&idx=1&sn=62a3f119cf5af09d0f6306ac6c142683&chksm=91ef995ccc11edcce3f51c8af9e8e90ab6db14e7403b0d872f21b1ac99d77b4cf8954cd43004&scene=27#wechat_redirect)
+### 2023年10月19日
+[活动|彩绘面具折纸夜,快来报名参与!!!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499467&idx=1&sn=97c53799ebd32280aea1da5c6206a911&chksm=3c429076cc11edefb51f1f4d9b248a8aec5e21ae89ea0cd2b2fab03014e8dd334f4f13d3a82f&scene=27#wechat_redirect)
 ### 2023年10月11日
 [活动|桌游夜活动报名开放啦!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499447&idx=1&sn=19c50a01007a953d2f1c97e44c721b6e&chksm=46c282530eb1ed93907345c1267c4fdcefde94fb6d9ef4c8e097331c36dc777b189cf0d5abe6&scene=27#wechat_redirect)
 ### 2023年10月5日
