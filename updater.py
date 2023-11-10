@@ -59,8 +59,6 @@ class WeixinOfficialAccountAPI(API):
 
 class Manager:
 
-    __biz = 'MzI0ODQ3MzUwMg==' # UCD学联CSAA
-
     def __init__(self, api: WeixinOfficialAccountAPI, posts_path: str = 'data/posts.json', img_dir: str = 'imgs') -> None:
         self.api = api
         self.posts_path = posts_path
@@ -125,12 +123,12 @@ class Manager:
         self.fetch_imgs(latest_posts)
         self.update_posts(latest_posts)
         self.generate_readme()
-        # self.push_to_github()
+        self.push_to_github()
 
     @staticmethod
     def push_to_github():
         os.system('git add .')
-        os.system('git commit -m "update"')
+        os.system('git commit -m "syncronize"')
         os.system('git push')
 
     def get_latest_posts(self) -> list[POST_DATA]:

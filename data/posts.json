@@ -1,6 +1,56 @@
 [
     {
         "comm_msg_info": {
+            "id": 1000000634,
+            "type": 49,
+            "datetime": 1699007239,
+            "fakeid": "3248473502",
+            "status": 2,
+            "content": ""
+        },
+        "app_msg_ext_info": {
+            "title": "生活|校内设施-ucd gym健身房使用指导",
+            "digest": "UCD健身房打开方式UCDGym在外留学,身体健康非常重要,很多人会选择在健身房健身来锻炼身体。",
+            "content": "",
+            "fileid": 100015796,
+            "content_url": "http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499527&idx=1&sn=b54f07a81aede0f01124083735ee8600&chksm=8b4b01e2e631e42bf8a3dde15040b01e8ba37d9795f6e4657b6afb6617ce51d13979844db252&scene=27#wechat_redirect",
+            "source_url": "",
+            "cover": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/0ibXUsBRXr2xxG5MYJHlfiaX4np113ZG6ibia8QJryXTF7VuO1kN2bKFficJjLPvib3zicticbh9kGlLoTOdOEyyWH22qQ/0?wx_fmt=jpeg",
+            "subtype": 9,
+            "is_multi": 1,
+            "multi_app_msg_item_list": [
+                {
+                    "title": "转载|11月快讯:爱尔兰站|双一流高校四校联合现场宣讲洽谈会!",
+                    "digest": "2023InvitationHiEliteGlobal",
+                    "content": "",
+                    "fileid": 100015018,
+                    "content_url": "http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499527&idx=2&sn=65ca3547da0bf318a0b8a20dfceed9d4&chksm=a66640a362b5e6298d453986b58d2cd3ecd1e7893460e33cd6e25ae13d9ef62b23c18bf776da&scene=27#wechat_redirect",
+                    "source_url": "",
+                    "cover": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/0ibXUsBRXr2x0qjGbSWIleYfSVAOwFYuRZ4YmcbJctmicIibJcTDSTEMg7ic9uUfJspXPFvDOQVTGZNrZiauZQlkoXw/0?wx_fmt=jpeg",
+                    "author": "爱尔兰CSSA",
+                    "copyright_stat": 100,
+                    "del_flag": 1,
+                    "item_show_type": 0,
+                    "audio_fileid": 0,
+                    "duration": 0,
+                    "play_url": "",
+                    "malicious_title_reason_id": 0,
+                    "malicious_content_type": 0
+                }
+            ],
+            "author": "UCD CSSA",
+            "copyright_stat": 100,
+            "duration": 0,
+            "del_flag": 1,
+            "item_show_type": 0,
+            "audio_fileid": 0,
+            "play_url": "",
+            "malicious_title_reason_id": 0,
+            "malicious_content_type": 0
+        }
+    },
+    {
+        "comm_msg_info": {
             "id": 1000000633,
             "type": 49,
             "datetime": 1698335274,

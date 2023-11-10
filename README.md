@@ -1,5 +1,8 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2023年11月3日
+[生活|校内设施-ucd gym健身房使用指导](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499527&idx=1&sn=b54f07a81aede0f01124083735ee8600&chksm=8b4b01e2e631e42bf8a3dde15040b01e8ba37d9795f6e4657b6afb6617ce51d13979844db252&scene=27#wechat_redirect)
+- [转载|11月快讯:爱尔兰站|双一流高校四校联合现场宣讲洽谈会!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499527&idx=2&sn=65ca3547da0bf318a0b8a20dfceed9d4&chksm=a66640a362b5e6298d453986b58d2cd3ecd1e7893460e33cd6e25ae13d9ef62b23c18bf776da&scene=27#wechat_redirect)
 ### 2023年10月26日
 [活动|万圣节Karaoke等你来唱!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499496&idx=1&sn=62a3f119cf5af09d0f6306ac6c142683&chksm=91ef995ccc11edcce3f51c8af9e8e90ab6db14e7403b0d872f21b1ac99d77b4cf8954cd43004&scene=27#wechat_redirect)
 ### 2023年10月19日
