@@ -1,6 +1,56 @@
 [
     {
         "comm_msg_info": {
+            "id": 1000000635,
+            "type": 49,
+            "datetime": 1699672207,
+            "fakeid": "3248473502",
+            "status": 2,
+            "content": ""
+        },
+        "app_msg_ext_info": {
+            "title": "《如何拍摄月亮与北极光?》——线上公开讲座",
+            "digest": "IRELAND CSSA线上公开讲座2023.11.11如何拍摄月亮与北极光?亲爱的同学们,为了满足大家对摄",
+            "content": "",
+            "fileid": 0,
+            "content_url": "http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499537&idx=1&sn=0520e7576ae3f055d2444184c5ae9428&chksm=1e6ebce5c215e43d23483c708080af96a7f34f82985d9835f6489cebf498a3a0974d97c1d37d&scene=27#wechat_redirect",
+            "source_url": "https://universityofgalway-ie.zoom.us/j/98423019673",
+            "cover": "https://mmbiz.qpic.cn/mmbiz_jpg/XlyYTY8Dm6FAjlovEibIvtcdlwAogfaOLYdnghPqum36ALQXgw4Hrk1RGnoRlvwibIemoUbZktEHwTkAI4BgNHIQ/0?wx_fmt=jpeg",
+            "subtype": 9,
+            "is_multi": 1,
+            "multi_app_msg_item_list": [
+                {
+                    "title": "转载|英国→爱尔兰站,北京理工大学2023全球招聘宣讲洽谈会!",
+                    "digest": "本文由北京理工大学授权发布HiEliteGlobal&云视聘团队设计制作",
+                    "content": "",
+                    "fileid": 100015018,
+                    "content_url": "http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499537&idx=2&sn=378aed6a10acb1ec3deaeaeadb17bd42&chksm=9bebfda466b1ec3591b09563fa1fa459bcbec974738a965224864348c5d5d93248451e45511c&scene=27#wechat_redirect",
+                    "source_url": "https://crm.9151.com.cn/3MHBq",
+                    "cover": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/0ibXUsBRXr2xEd9QSQgXtRym9mFmTwEV0TIbTkCp4QziaebypeakQV4PlHxWwXAwezibZn2vzW8s3ZHz5fcicmkECg/0?wx_fmt=jpeg",
+                    "author": "HiEliteGlobal",
+                    "copyright_stat": 100,
+                    "del_flag": 1,
+                    "item_show_type": 0,
+                    "audio_fileid": 0,
+                    "duration": 0,
+                    "play_url": "",
+                    "malicious_title_reason_id": 0,
+                    "malicious_content_type": 0
+                }
+            ],
+            "author": "爱尔兰CSSA",
+            "copyright_stat": 201,
+            "duration": 0,
+            "del_flag": 1,
+            "item_show_type": 0,
+            "audio_fileid": 0,
+            "play_url": "",
+            "malicious_title_reason_id": 0,
+            "malicious_content_type": 0
+        }
+    },
+    {
+        "comm_msg_info": {
             "id": 1000000634,
             "type": 49,
             "datetime": 1699007239,

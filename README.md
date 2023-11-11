@@ -1,5 +1,8 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2023年11月11日
+[《如何拍摄月亮与北极光?》——线上公开讲座](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499537&idx=1&sn=0520e7576ae3f055d2444184c5ae9428&chksm=1e6ebce5c215e43d23483c708080af96a7f34f82985d9835f6489cebf498a3a0974d97c1d37d&scene=27#wechat_redirect)
+- [转载|英国→爱尔兰站,北京理工大学2023全球招聘宣讲洽谈会!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499537&idx=2&sn=378aed6a10acb1ec3deaeaeadb17bd42&chksm=9bebfda466b1ec3591b09563fa1fa459bcbec974738a965224864348c5d5d93248451e45511c&scene=27#wechat_redirect)
 ### 2023年11月3日
 [生活|校内设施-ucd gym健身房使用指导](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499527&idx=1&sn=b54f07a81aede0f01124083735ee8600&chksm=8b4b01e2e631e42bf8a3dde15040b01e8ba37d9795f6e4657b6afb6617ce51d13979844db252&scene=27#wechat_redirect)
 - [转载|11月快讯:爱尔兰站|双一流高校四校联合现场宣讲洽谈会!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499527&idx=2&sn=65ca3547da0bf318a0b8a20dfceed9d4&chksm=a66640a362b5e6298d453986b58d2cd3ecd1e7893460e33cd6e25ae13d9ef62b23c18bf776da&scene=27#wechat_redirect)
