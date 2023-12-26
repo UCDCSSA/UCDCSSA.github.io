@@ -1,5 +1,17 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2023年12月22日
+[商家|转发赢大礼,大虾或20欧代金券等你拿!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499834&idx=1&sn=8179ee11837b0b7a17dee0872330e4d2&chksm=e89c1ab100db6229ec8c718a3d99ba40b2851f7b8f4b68f08b28efd30138de95138aafb7f37c&scene=27#wechat_redirect)
+### 2023年12月19日
+[商家|重磅通知,万欧礼遇!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499761&idx=1&sn=a687b658e9fe743233a6f36b9daf3283&chksm=e84a50de7bbacb9a28072534780e145671aef48ea01b307cd3af7b7a436f31dbbf329c89ab0c&scene=27#wechat_redirect)
+- [转载|大家期待的共创节目来了!赶紧来找你的春晚搭子~一起与全球中国留学生「玩」起来吧!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499761&idx=2&sn=1d1216ad40d3caecff986ff71f07b5b5&chksm=e863c27c83f8b097e8e31c99b9b238698f3eb9c452d83bc4ac21fbf9d618a17fe468464d0f04&scene=27#wechat_redirect)
+### 2023年12月7日
+[爱尔兰专场|2023天津大学事业发展报告会](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499610&idx=1&sn=83fad13954027f0295b96f9fd24baaee&chksm=e8d362d5085315691422cb5145900403b3417077f67fb08107ffdc5ed20292c9fe2218e7ef5f&scene=27#wechat_redirect)
+### 2023年12月4日
+[商家|融兴行50欧大奖等你领取,还不快看看看](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499599&idx=1&sn=7957d7838dfeef8a21ad181e6d98a374&chksm=e844517400bd53b131fc16bb66217609daaf7a5a9a42925fbbfa685bcc52fa74ee7146ee2afb&scene=27#wechat_redirect)
+### 2023年11月23日
+[活动|52届孔子博士论坛开启报名啦!!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499573&idx=1&sn=913fdda4103c4b2456991e2f4cc13738&chksm=e8f3b0570d173fc0b30bf526ff7224a0301c4452888d92c162f53004c3e00e6de1132c2f023d&scene=27#wechat_redirect)
+- [转载|倒计时35天 @海外人才:2023海交会向你发出见面邀请!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499573&idx=2&sn=7ebe690696fae69187d3570977435f1b&chksm=e8daf7eef79fa4402a90d9cb1fa4fa834adcc290d30f8a7459faa60bbd243f27fedba77a38b8&scene=27#wechat_redirect)
 ### 2023年11月11日
 [《如何拍摄月亮与北极光?》——线上公开讲座](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499537&idx=1&sn=0520e7576ae3f055d2444184c5ae9428&chksm=1e6ebce5c215e43d23483c708080af96a7f34f82985d9835f6489cebf498a3a0974d97c1d37d&scene=27#wechat_redirect)
 - [转载|英国→爱尔兰站,北京理工大学2023全球招聘宣讲洽谈会!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499537&idx=2&sn=378aed6a10acb1ec3deaeaeadb17bd42&chksm=9bebfda466b1ec3591b09563fa1fa459bcbec974738a965224864348c5d5d93248451e45511c&scene=27#wechat_redirect)
