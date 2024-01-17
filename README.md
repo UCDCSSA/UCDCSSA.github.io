@@ -1,5 +1,11 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2024年1月12日
+[商家|H&T半价美睫!私享定制](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500018&idx=1&sn=05102aa05e0e24785d5487f40ae73e9b&chksm=e81aa204c8df047302fa65ae4d747ce2057bf7586dfa5187ddcaa36c4f893274f683ee42d0b2&scene=27#wechat_redirect)
+### 2024年1月10日
+[节目征集|全爱学联2024龙年春节联欢会即将来袭,舞台等你来闪耀!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499909&idx=1&sn=bfb4380f05147f749ae8de23e6bbaf0b&chksm=e8050566e56b9c0e4772f5b4f0ebfce9dd64ff74a0d27aa35a79d85765b7e7e79ac561915db0&scene=27#wechat_redirect)
+### 2023年12月28日
+[转载|大家期待的共创节目来了!赶紧来找你的春晚搭子~一起与爱尔兰地区的留学生玩!起来吧!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499907&idx=1&sn=28220be9d4543f04817af749cebdce50&chksm=e811142ad9f71bbfe246b9e4ef7ef615a15e0797c4ecbcd4164036ed25aec6ad051053e6ecdb&scene=27#wechat_redirect)
 ### 2023年12月22日
 [商家|转发赢大礼,大虾或20欧代金券等你拿!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247499834&idx=1&sn=8179ee11837b0b7a17dee0872330e4d2&chksm=e89c1ab100db6229ec8c718a3d99ba40b2851f7b8f4b68f08b28efd30138de95138aafb7f37c&scene=27#wechat_redirect)
 ### 2023年12月19日
