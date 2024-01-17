@@ -7,7 +7,7 @@
 
 .card-container {
     padding: 8px;
-    min-width:0;
+    min-width: 0;
 }
 
 .card-date {
@@ -31,12 +31,12 @@
     border-radius: 10px;
 }
 
-.card > :first-child {
+.card> :first-child {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
 
-.card > :last-child {
+.card> :last-child {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
@@ -158,4 +158,39 @@ span.highlight {
 a {
     text-decoration: none; /* no underline */
     color: inherit; /* no highlight */
+}
+
+.search-box {
+    position: relative;
+    border: 1px solid transparent;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    margin: 5px 10px;
+    padding-left: 6px;
+}
+
+.search-box input {
+    border-radius: 20px;
+    height: 40px;
+    background: #f5f5f5;
+    outline: none;
+    text-indent: 40px;
+    font-size: 16px;
+    border: 2px solid #f5f5f5;
+    width: 100%;
+}
+
+.search-box input:focus {
+    background: #fff;
+    border: 2px solid #6b9bd2
+}
+
+.search-box svg {
+    position: absolute;
+    fill: #283237;
+    width: 24px;
+    height: 24px;
+    top: 11px;
+    left: 20px
 }
