@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>UCD-CSSA</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/png" href="https://www.ucd.ie/t4media/favicon-32x32.png">
 </head>
 
 <body>
@@ -50,18 +51,21 @@
         </div>
     </template>
     <script src="https://cdn.jsdelivr.net/npm/vue@latest/dist/vue.global.prod.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/v-lazy-image@2.1.1/dist/v-lazy-image.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/v-lazy-image@latest/dist/v-lazy-image.js"></script>
     <script>
         const card_list = Vue.createApp({
             data() {
                 return {
                     posts: [],
                     filteredPosts: [],
-                    searchText: ""
+                    searchText: "",
                 };
             },
             async created() {
                 this.filteredPosts = this.posts = await (await fetch("data/posts.json")).json();
+            },
+            components: {
+                VLazyImage,
             },
             methods: {
                 formatDate(timestamp) {
@@ -99,9 +103,7 @@
                 }
             },
             template: '#app'
-        });
-        card_list.component('VLazyImage', VLazyImage);
-        card_list.mount('.app');
+        }).mount('.app');
     </script>
 </body>
 
