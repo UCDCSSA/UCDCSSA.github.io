@@ -23,7 +23,7 @@
                         <a :href="post.app_msg_ext_info.content_url">
                             <div class="card-hover keep-shape">
                                 <div class="multi-card-title" v-html="highlightText(post.app_msg_ext_info.title)"></div>
-                                <img class="card-cover keep-shape" :src="asLocalImg(post.app_msg_ext_info.cover)">
+                                <v-lazy-image class="card-cover keep-shape" :src="asLocalImg(post.app_msg_ext_info.cover)"></v-lazy-image>
                             </div>
                         </a>
                         <a v-for="sub_post in post.app_msg_ext_info.multi_app_msg_item_list"
@@ -31,14 +31,14 @@
                             <div class="card-hover keep-shape">
                                 <div class="card-sub-item">
                                     <div class="card-sub-title" v-html="highlightText(sub_post.title)"></div>
-                                    <img class="card-sub-cover" :src="asLocalImg(sub_post.cover)">
+                                    <v-lazy-image class="card-sub-cover" :src="asLocalImg(sub_post.cover)"></v-lazy-image>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <a :href="post.app_msg_ext_info.content_url" v-else>
                         <div class="card card-hover">
-                            <img class="card-cover" :src="asLocalImg(post.app_msg_ext_info.cover)" />
+                            <v-lazy-image class="card-cover" :src="asLocalImg(post.app_msg_ext_info.cover)"></v-lazy-image>
                             <div class="card-content">
                                 <div class="card-title" v-html="highlightText(post.app_msg_ext_info.title)"></div>
                                 <p class="card-description" v-html="highlightText(post.app_msg_ext_info.digest)"></p>
@@ -49,7 +49,8 @@
             </div>
         </div>
     </template>
-    <script src="https://cdn.jsdelivr.net/npm/vue@latest/dist/vue.global.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@latest/dist/vue.global.prod.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/v-lazy-image@2.1.1/dist/v-lazy-image.min.js"></script>
     <script>
         const card_list = Vue.createApp({
             data() {
@@ -98,7 +99,9 @@
                 }
             },
             template: '#app'
-        }).mount('.app');
+        });
+        card_list.component('VLazyImage', VLazyImage);
+        card_list.mount('.app');
     </script>
 </body>
 
