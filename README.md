@@ -1,5 +1,10 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2024年1月23日
+[2024都柏林大学孔子学院春节庆典,就等你来!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500082&idx=1&sn=4ac731e5a36c5cf2c6c936805ce56678&chksm=e86b28f6fbeaccad640fcd33ca90eef542e10ac803fbfcd601b0a7b1ebaee509eaa316d0e3f3&scene=27#wechat_redirect)
+### 2024年1月19日
+[全爱学联春节联欢会赞助商招募中!期待您的加盟!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500026&idx=1&sn=2f78b491b3d0eca1bc405b8061ede3f4&chksm=e861b270f4cb126d3bc6e49eb7a63606ba7854d6b3a43652e1d65602879d41053af5f0bb2f04&scene=27#wechat_redirect)
+- [转载|爱尔兰站—北京邮电大学2024全球招聘宣讲洽谈会诚邀您参加!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500026&idx=2&sn=bbb0c0972743093dcbe34122a3834c3d&chksm=e895da44a5aa366b82a73164d4bbdc9a403f0c28f3b5ae9a3aff799cadd91276c9233293ba46&scene=27#wechat_redirect)
 ### 2024年1月12日
 [商家|H&T半价美睫!私享定制](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500018&idx=1&sn=05102aa05e0e24785d5487f40ae73e9b&chksm=e81aa204c8df047302fa65ae4d747ce2057bf7586dfa5187ddcaa36c4f893274f683ee42d0b2&scene=27#wechat_redirect)
 ### 2024年1月10日
