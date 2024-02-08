@@ -1,5 +1,12 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2024年2月5日
+[生活|校内设施——校内就医及心理咨询指南](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500141&idx=1&sn=c9d5a501eb5a55ed7661b71506d01275&chksm=e8431d9aa0eb5a0b089635fa986e48fd8bd94b3fef837c38451d9aa1512af4b19a8e80d6f6ec&scene=27#wechat_redirect)
+- [生活|UCD深夜食堂第十夜——5分钟极速微波炉鸡蛋羹](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500141&idx=2&sn=8175bc589c63ab632764bd882909c9bc&chksm=e85ac1a6085072834300c63fe9b492cd3e3e65b43a327160ef3c5f1ab7ac6d57f4fbf6942cbb&scene=27#wechat_redirect)
+### 2024年2月4日
+[2024 Chinese New Year Celebration 等你报名!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500135&idx=1&sn=0e686a8931b5bf385f82b1f5c60dca91&chksm=e888cd40d1f0212a968a0716a3b771eb6ce6a00335aaadfac05bf16f4880d25c7dcadedaf647&scene=27#wechat_redirect)
+### 2024年1月30日
+[2024都柏林大学孔子学院春节庆典,就等你来!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500102&idx=1&sn=b62ae27e185c14253b6a6d17168f907e&chksm=e83ef7bd87a6a98f25f1faad91812b6e261b4d2a2db0cccf7ab6593f9a3da6582208795720dc&scene=27#wechat_redirect)
 ### 2024年1月23日
 [2024都柏林大学孔子学院春节庆典,就等你来!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500082&idx=1&sn=4ac731e5a36c5cf2c6c936805ce56678&chksm=e86b28f6fbeaccad640fcd33ca90eef542e10ac803fbfcd601b0a7b1ebaee509eaa316d0e3f3&scene=27#wechat_redirect)
 ### 2024年1月19日
