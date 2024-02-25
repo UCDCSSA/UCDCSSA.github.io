@@ -1,5 +1,20 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2024年2月23日
+[生活|从零开始——平安留学讲座郑冬冬警官安全经验分享](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500411&idx=1&sn=70641b18fcf411a6625b9508c3989af1&chksm=e89cb2b9a9208e6b582eabdee679821c66279ce3fbd22206adfebdc09ea42f2427a33dd26e7a&scene=27#wechat_redirect)
+- [生活|校内设施——eduroam连接方法](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500411&idx=2&sn=e1a535624388b18c4c8737912bf6e0e3&chksm=e8be4535752dee534244405f86943af7096bc5042f3205283db678ecae849cac152ef40ab632&scene=27#wechat_redirect)
+### 2024年2月20日
+[活动|53届孔子博士论坛开启报名啦!!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500384&idx=1&sn=d9ae907a256e92b6b3243556417338ac&chksm=e8edef382628564da0971ec4817989619020fc2f5fd1ba9d87d1dd412ae176c87e450ee1616f&scene=27#wechat_redirect)
+- [活动|桌游夜活动报名开放啦!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500384&idx=2&sn=4bd9327556f2b70dccee3937ad318b21&chksm=e8b1b015157f37c48c70fd1d51ccaf1b7499fdfd7b07cfedffd490279d5b786f8882c682bfb6&scene=27#wechat_redirect)
+### 2024年2月16日
+[倒计时|2024龙年晚会节目预告!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500254&idx=1&sn=63d0b8d041dfb274fe474f874ac8bbe8&chksm=e81b47c9e75f9ce914ee0cf63bbec1262d076473f8dee7cac9fd14196e6424b1fe9d3507cab2&scene=27#wechat_redirect)
+### 2024年2月15日
+[第二轮门票开放—— 共赴龙年春节联欢盛典](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500252&idx=1&sn=f2f5c87055a9b9fa51c711f282f9cc93&chksm=e85427bfd525e55b3df0d02f7fe9f911788edccd075960b23a297639e7c8dccc88e78528405e&scene=27#wechat_redirect)
+- [揭幕|2024春晚主创人员的“真面目”](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500252&idx=2&sn=c1da9c202d2af07caa1c9e5abc8957c2&chksm=e89a6a429ffbc41563af2ecaacaef405c6c1916726853e0649f707ed778fd0844041fe594505&scene=27#wechat_redirect)
+### 2024年2月11日
+[生活|从零开始——Leapcard公交卡20240209版](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500248&idx=1&sn=f722ef30ec264e14dbec15150f2881e0&chksm=e86bf65dab407f8b145d55cf7226a778dcc96f93b70eaac420d1cd0af2d02c35afcf6c1c8132&scene=27#wechat_redirect)
+### 2024年2月9日
+[龙腾瑞气迎春辉 — UCD中国学联恭祝2024龙年春节快乐](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500243&idx=1&sn=8a11bb2b00192eb2b693cb4bb5df0d37&chksm=e8ea13fe1492cfc7b47dca5a7d8c948548c70ac1c385df8ef7982da07415caaf52cf8113dca9&scene=27#wechat_redirect)
 ### 2024年2月5日
 [生活|校内设施——校内就医及心理咨询指南](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500141&idx=1&sn=c9d5a501eb5a55ed7661b71506d01275&chksm=e8431d9aa0eb5a0b089635fa986e48fd8bd94b3fef837c38451d9aa1512af4b19a8e80d6f6ec&scene=27#wechat_redirect)
 - [生活|UCD深夜食堂第十夜——5分钟极速微波炉鸡蛋羹](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500141&idx=2&sn=8175bc589c63ab632764bd882909c9bc&chksm=e85ac1a6085072834300c63fe9b492cd3e3e65b43a327160ef3c5f1ab7ac6d57f4fbf6942cbb&scene=27#wechat_redirect)
