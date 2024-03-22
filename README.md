@@ -1,5 +1,10 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2024年3月20日
+[活动|第54届孔子博士论坛开启报名啦!!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500609&idx=1&sn=9ce018d4ee107dabe00aeedd3e8404bc&chksm=e861e332a6adcfe4693d5ad59091c4d88e00731d4d1881acb72c2d0c668d3d3cd81fcaae058f&scene=27#wechat_redirect)
+### 2024年3月16日
+[【2024新生报名】2024UCD学联新生群欢迎你的加入!!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500596&idx=1&sn=c23d026e3d311319a203fd1c8affc922&chksm=e8b8e369963469dc418016c8a619ba9313748336da6560d72a5286007392bdf012efdc7955fd&scene=27#wechat_redirect)
+- [生活从零开始—— DRS介绍](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500596&idx=2&sn=ee5602ea91c00b86776626b39b5d8161&chksm=e8607c9a09a865eb68821f5a34dd38a589f438ff7d9877798ed8c1f7c15a682bc6f24545cc92&scene=27#wechat_redirect)
 ### 2024年2月23日
 [生活|从零开始——平安留学讲座郑冬冬警官安全经验分享](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500411&idx=1&sn=70641b18fcf411a6625b9508c3989af1&chksm=e89cb2b9a9208e6b582eabdee679821c66279ce3fbd22206adfebdc09ea42f2427a33dd26e7a&scene=27#wechat_redirect)
 - [生活|校内设施——eduroam连接方法](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500411&idx=2&sn=e1a535624388b18c4c8737912bf6e0e3&chksm=e8be4535752dee534244405f86943af7096bc5042f3205283db678ecae849cac152ef40ab632&scene=27#wechat_redirect)
