@@ -32,11 +32,11 @@ class WeixinOfficialAccountAPI(API):
 
     headers = {'User-Agent': 'MicroMessenger'}
 
-    def __init__(self, biz: str, wap_sid2: str):
+    def __init__(self, biz: str, wap_sid2: str, pass_ticket: str) -> None:
         super().__init__(
             base_url='https://mp.weixin.qq.com/mp/profile_ext', 
             headers={'User-Agent': 'MicroMessenger'}, 
-            cookies={'wap_sid2': wap_sid2}
+            cookies={'wap_sid2': wap_sid2, 'pass_ticket': pass_ticket}
         )
         self.biz = biz
 
@@ -147,11 +147,14 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--wap_sid2', type=str, required=True)
+    parser.add_argument('--pass_ticket', type=str, required=True)
+
     arg = parser.parse_args()
 
     api = WeixinOfficialAccountAPI(
         biz='MzI0ODQ3MzUwMg==',
-        wap_sid2=arg.wap_sid2
+        wap_sid2=arg.wap_sid2,
+        pass_ticket=arg.pass_ticket
     )
 
     manager = Manager(api)
