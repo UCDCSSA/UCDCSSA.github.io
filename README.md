@@ -1,5 +1,7 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2024年7月14日
+[UCD中国学联主席及部长名单公示](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500938&idx=1&sn=84ba2bb5d9ad8d09db4e89cbd916f6ac&chksm=e8fece529347125808ecd07b7231010c0e4d4995cb4635d7c043d250dd522eae60eb7c93dee5&scene=27#wechat_redirect)
 ### 2024年5月23日
 [问卷|塔拉杯——明日方舟集成战略“探索者的银淞止境”爱尔兰地区高校联赛](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500925&idx=1&sn=72a19dd50a352e7acbe899545fd99ad4&chksm=e85e7220d2672ae074af7c7b93193a26ad9882acac04e37af37c3db1811c7afaea17905b3499&scene=27#wechat_redirect)
 ### 2024年5月22日

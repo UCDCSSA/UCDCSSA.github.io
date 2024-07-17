@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python updater.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/updater.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--wap_sid2", 
+                "COfguvEHEooBeV9ITG9mNDg4bm9SVnlOSHluaVRKUjlkenp0cjQyS2NsOVhTX2JoZXB4SHB2SjBmODdSZnNJUnFfbUhvN044eV8yTXJncjFMVXh5Y0ZYNjh1REMtZEZGN3ZaclloZ1d3UkE3RWZxY0QxTF9JQXpDNUNac2tjTVpvMXV5MlBpTG9fS0Vkd1NBQUF+MPHn37QGOA1AlU4="
+            ]
+        }
+    ]
+}
