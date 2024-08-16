@@ -1,5 +1,11 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2024年8月16日
+[纳新|UCD中国学联第二十二届执委2024纳新活动开始啦!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501198&idx=1&sn=674c015e52d2c440c50da3ba6bb4531b&chksm=e890708b41546d0c5022211b54a0d4d02458884b7ea4cc89df2cfd9c97c36e3676b5bece6bcc&scene=27#wechat_redirect)
+### 2024年8月1日
+[活动报名 | 2024年欧洲中国学生学者学术研讨会暨第五届德法会议](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501134&idx=1&sn=39f2eb4abd24fd1eff2e7cf56d8e1e99&chksm=e8f4055899e22e311c9cc6e80980501883bd2c3b13bc79500a7bb223f2c34adbe3830a474f35&scene=27#wechat_redirect)
+### 2024年7月21日
+[纳新| UCD中国学联第二十二届执委纳新啦!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501101&idx=1&sn=04455bab4c61f38401279f109ba465de&chksm=e8e67565820332b10f9e14c0620ec44c0bd49f4934500238b2c299ef802ee3f1eb2bb7ea8b93&scene=27#wechat_redirect)
 ### 2024年7月14日
 [UCD中国学联主席及部长名单公示](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247500938&idx=1&sn=84ba2bb5d9ad8d09db4e89cbd916f6ac&chksm=e8fece529347125808ecd07b7231010c0e4d4995cb4635d7c043d250dd522eae60eb7c93dee5&scene=27#wechat_redirect)
 ### 2024年5月23日
