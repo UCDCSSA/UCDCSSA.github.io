@@ -1,5 +1,13 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2024年9月19日
+[开业啦丨爱尔兰首家手机平板及电子产品上门维修公司](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501293&idx=1&sn=a4e18a3209e5e6c0b7fa44e5afb98cea&chksm=e851147e314b3659cf3c5ca8040073cb3c62081fc86823d3c634b1fed406d3f03fc5a70ce0ed&scene=27#wechat_redirect)
+### 2024年9月17日
+[活动|新生周活动来袭,快来加入我们!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501284&idx=1&sn=a91992ee30993f0d65fcf16ea857f89f&chksm=e8593ce883aca17ad3664685e3ec499cb74431eb7f856cba1a032ac8f6ac0cd7d3baccadab8a&scene=27#wechat_redirect)
+### 2024年9月10日
+[生活丨校内设施——Harmony Studio在哪?](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501258&idx=1&sn=9789771996bce471d206ee0a09c433be&chksm=e83d018ab78537528cf79323644df023f7a89b88337dbaa66d3619ef3363454fc2363001a5e4&scene=27#wechat_redirect)
+### 2024年8月26日
+[学联推广|8.27杭州电子科技大学海外高层次人才招聘会·都柏林大学 报名开启!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501219&idx=1&sn=d78e7351900f0b9de925dc71fbcb2722&chksm=e8bb77154a5412033c29c1761e7f5ff4240b19c4acf39feeed813158de9deea6842bc532cf1e&scene=27#wechat_redirect)
 ### 2024年8月16日
 [纳新|UCD中国学联第二十二届执委2024纳新活动开始啦!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501198&idx=1&sn=674c015e52d2c440c50da3ba6bb4531b&chksm=e890708b41546d0c5022211b54a0d4d02458884b7ea4cc89df2cfd9c97c36e3676b5bece6bcc&scene=27#wechat_redirect)
 ### 2024年8月1日
