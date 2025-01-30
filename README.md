@@ -1,5 +1,33 @@
 # UCD学联CSAA
 旨在为促进中外学生交流和为在UCD的学生提供服务的平台
+### 2025年1月30日
+[延揽世界英才 共谱“天大”华章 | 2025天津大学海外优青项目](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501541&idx=1&sn=5cd879dc48d4b513d00ebe276c4b7099&chksm=e844829dccfdd1401cb40a84756bea89d5dc194fea154638b8183df99c3c6dc644c652497f22&scene=27#wechat_redirect)
+### 2025年1月29日
+[生活|eduroam连接方法](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501519&idx=1&sn=56638abff8fb7c99d1139c10194e50db&chksm=e87e1b1f1c3b0bc711a409930176319a16976eff29606e8525e78240abe9b210af30981268b9&scene=27#wechat_redirect)
+### 2025年1月27日
+[活动 | 点亮新春,共庆佳节!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501481&idx=1&sn=d41cefaca32f2e6799903777980ed950&chksm=e8e7af2eed916137b4650f8d65721451bb97fbac6d23db207ce9e90b50374e091b9239da9915&scene=27#wechat_redirect)
+### 2025年1月24日
+[通知 | 中国新年活动延期通知](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501475&idx=1&sn=08f356f68cdccb130d26cec130688f6b&chksm=e80b3c8677bc8fcd44da99c48be56a51978843683a5b3cafcad19806e59639e045bb76a5faf8&scene=27#wechat_redirect)
+### 2025年1月17日
+[活动丨爱尔兰UCD中国学联2025春节游园会欢迎您!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501467&idx=1&sn=8d311b37689f63e6e4f15299fd222c52&chksm=e81081751e55bdd77b8c3bf15530876402868a161e4f6f8d464c4feb99356d45db301f8b6534&scene=27#wechat_redirect)
+### 2024年12月23日
+[节目征集|全爱学联2024蛇年春节联欢会即将来袭,舞台等你来闪耀!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501448&idx=1&sn=afcef0145a68bf28ba6a80513f9487a4&chksm=e8485932584c83361da25304220fbf3650b085a5618ab3b7b4f8ea39c46c0104836334df8386&scene=27#wechat_redirect)
+### 2024年12月16日
+[广东省华南农业大学 || 全球人才交流会欢迎您!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501440&idx=1&sn=275414e3627ecdb5256488d90342bc11&chksm=e8fab16944c2eea780abb0a6bcd697722e6646129ecbffe99d02cc6114fca73533b5441f5b41&scene=27#wechat_redirect)
+### 2024年11月14日
+[海纳百川丨西北工业大学第十三届翱翔青年学者论坛欢迎您!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501411&idx=1&sn=2ac9cabcfc836556c8f0be3d5f6000cd&chksm=e80ea37e9fef5ffc5c8abf58f5d8fcb5b0a0eaaf23150eafba42c3afda2918b7b27adb2961dd&scene=27#wechat_redirect)
+### 2024年11月11日
+[活动 | 卡拉OK之夜活动来袭!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501403&idx=1&sn=32ae29eb4ed57576b5052497710dc968&chksm=e8815e3c00ef60f7267d7081a8e94a155cfd35b999c286a6084292142386aeae39323b0ed109&scene=27#wechat_redirect)
+### 2024年10月25日
+[活动 | 万圣节剧本杀之夜活动开始报名啦!](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501378&idx=1&sn=147de482d523d1d1d1fe3b18691a6882&chksm=e84807cd147d215a11cb2b13010f5c5016218cbc83dfac67d12f27c9482405637459e7202dc6&scene=27#wechat_redirect)
+### 2024年10月24日
+[活动 | 华为公司参观活动开始报名啦](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&amp;mid=2247501356&amp;idx=1&amp;sn=15f2ec669db320294c750bddb59451ea&amp;chksm=e890b58c2b9c2e51e07bace2365198595068518c772029d168da7069139a2d9d143071cb05c7&amp;scene=27#wechat_redirect)
+### 2024年10月15日
+[生活｜从零开始——microG鸿蒙4.2谷歌功能兼容方案](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&amp;mid=2247501328&amp;idx=1&amp;sn=6a310ce74ecc9301882ddacfea133b35&amp;chksm=e8780d84cfbb1546964c7bd689d2d46f57d24473524e51508c9425a816c4773c645f081f7653&amp;scene=27#wechat_redirect)
+### 2024年10月4日
+[转载 | 教育部留学服务中心官方平台，一站式留学，“留学e网通”移动端APP正式上线！](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&amp;mid=2247501312&amp;idx=1&amp;sn=c0fc1e4a7488b6765b3bf8eaa5ab0d3b&amp;chksm=e811970fa16c07f7423af65aca0133ed51cbe7a7bc088a10bf81d0a1e5ada00b5ef81fafe24d&amp;scene=27#wechat_redirect)
+### 2024年10月1日
+[活动丨IICS公开讲座系列 / 第56届孔子博士论坛开始报名啦！！](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&amp;mid=2247501304&amp;idx=1&amp;sn=f9468c4c7596e4baf63741a74c88f962&amp;chksm=e85614363d857860bcef92230c31576f40e9a48b0752e7236c44ee2f1f3087f5d673f323926e&amp;scene=27#wechat_redirect)
 ### 2024年9月19日
 [开业啦丨爱尔兰首家手机平板及电子产品上门维修公司](http://mp.weixin.qq.com/s?__biz=MzI0ODQ3MzUwMg==&mid=2247501293&idx=1&sn=a4e18a3209e5e6c0b7fa44e5afb98cea&chksm=e851147e314b3659cf3c5ca8040073cb3c62081fc86823d3c634b1fed406d3f03fc5a70ce0ed&scene=27#wechat_redirect)
 ### 2024年9月17日
