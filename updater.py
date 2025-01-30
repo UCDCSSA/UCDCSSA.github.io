@@ -34,28 +34,32 @@ class WeixinOfficialAccountAPI(API):
 
     def __init__(self, biz: str, wap_sid2: str, pass_ticket: str) -> None:
         super().__init__(
-            base_url='https://mp.weixin.qq.com/mp/profile_ext', 
-            headers={'User-Agent': 'MicroMessenger'}, 
+            base_url='https://mp.weixin.qq.com/mp/profile_ext',
+            headers={'User-Agent': 'MicroMessenger'},
             cookies={'wap_sid2': wap_sid2, 'pass_ticket': pass_ticket}
         )
         self.biz = biz
+        self.home()
 
     def get(self, **kwargs):
         return super().get(__biz=self.biz, **kwargs)
-    
+
     def home(self, **kwargs):
         res = self.get(action='home', **kwargs)
         try:
             self.cookies['appmsg_token'] = re.findall(r'appmsg_token = "(.*?)";', res.text)[0]
+            msgList_str = re.findall("var msgList = '(.*?)';", res.text)
+            self.latest_posts = parse_msgList(msgList_str[0])
         except IndexError:
             print('获取 appmsg_token 失败，wap_sid2可能过期')
+
         return res
-    
+
     def getmsg(self, offset=0, count=10, **kwargs):
         if 'appmsg_token' not in self.cookies or self.cookies['appmsg_token'] == '':
             raise Exception('appmsg_token 为空, 请先调用 home() 方法获取')
         return self.get(action='getmsg', offset=offset, count=count, f='json', appmsg_token=self.cookies['appmsg_token'], **kwargs)
-    
+
 
 class Manager:
 
@@ -81,17 +85,20 @@ class Manager:
                     url = sub_p['cover']
                     self.__download_img(url)
 
-    def update_posts(self, latest_posts: list[POST_DATA]) -> list[POST_DATA]:
+    def update_posts(self, latest_posts: list[POST_DATA]) -> bool:
         new_msg = []
         for p in latest_posts:
             if p['comm_msg_info']['id'] != self.posts[0]['comm_msg_info']['id']:
                 new_msg.append(p)
             else:
                 break
+        if len(new_msg) == len(latest_posts):
+            return False
         print(f'新增{len(new_msg)}条消息')
         self.posts = new_msg + self.posts
         json.dump(self.posts, open(self.posts_path, 'w', encoding='utf-8'), ensure_ascii=False, indent=4)
-        
+        return True
+
     def generate_readme(self) -> None:
         with open('README.md', 'w', encoding='utf-8') as f:
             f.write('# UCD学联CSAA\n')
@@ -116,12 +123,13 @@ class Manager:
                         else:
                             content = p["comm_msg_info"]["content"]
                             if content:
-                                f2.write(f'### {date}\n{content}\n')   
+                                f2.write(f'### {date}\n{content}\n')
 
     def update(self) -> None:
-        latest_posts = self.get_latest_posts()
+        latest_posts = self.api.latest_posts
+        while not self.update_posts(latest_posts):
+            latest_posts = latest_posts + self.get_latest_posts(offset=len(latest_posts)+1)
         self.fetch_imgs(latest_posts)
-        self.update_posts(latest_posts)
         self.generate_readme()
         self.push_to_github()
 
@@ -131,15 +139,10 @@ class Manager:
         os.system('git commit -m "syncronize"')
         os.system('git push')
 
-    def get_latest_posts(self) -> list[POST_DATA]:
-        res = self.api.home()
-        msgList_str = re.findall("var msgList = '(.*?)';", res.text)
-        if msgList_str == []:
-            print('获取最新文章列表失败，wap_sid2可能过期')
-            exit(1)
-        new_posts = parse_msgList(msgList_str[0])
-        return new_posts
-   
+    def get_latest_posts(self, offset: int = 0, count: int = 10) -> list[POST_DATA]:
+        res = self.api.getmsg(offset=offset, count=count)
+        return json.loads(res.json()["general_msg_list"])["list"]
+
 
 if __name__ == '__main__':
 
